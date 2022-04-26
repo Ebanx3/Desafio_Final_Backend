@@ -1,0 +1,26 @@
+{
+	"id": "ee60caec-157c-4765-a089-d3560ef23eff",
+	"timestamp": "2022-04-26T01:41:59.162Z",
+	"productos": [
+		{
+			"id": "1f14c610-ca0d-4fc3-ad3e-812c614522be",
+			"timestamp": 1650937156891,
+			"nombre": "Lapiz",
+			"descripcion": "Lapiz de carbón negro",
+			"codigo": "092397b4-1192-42d0-99a6-28689205a86c",
+			"fotoUrl": "https:quiensabe",
+			"precio": 40,
+			"stock": 5
+		},
+		{
+			"id": "f2f5c9c6-3a65-49f5-90f9-90c41c37f9aa",
+			"timestamp": 1650937156892,
+			"nombre": "Regla",
+			"descripcion": "Una regla algo flexible",
+			"codigo": "58244a80-70f2-494c-a96c-d3edc21a5151",
+			"fotoUrl": "hasdasdasdasd",
+			"precio": 50,
+			"stock": 5
+		}
+	]
+}
